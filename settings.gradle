@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "4Home_Work_Intents_Baet"

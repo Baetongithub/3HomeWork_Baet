@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">3Home_Work_Intents_Baet</string>
+    <string name="click">click</string>
+    <string name="your_message">your message</string>
+    <string name="send_it">send it</string>
+    <string name="subject">subject</string>
+    <string name="choose_a_photo">choose a photo</string>
+    <string name="enter_your_text">enter your text</string>
+    <string name="open">open</string>
+
+</resources>
